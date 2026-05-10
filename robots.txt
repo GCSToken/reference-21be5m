@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://GCSToken.github.io/reference-21be5m/sitemap.xml
